@@ -1,0 +1,4 @@
+interface:
+  display_name: "结构化文章写作"
+  short_description: "把主题、素材或草稿写成判断清晰、论证完整且可行动的结构化文章"
+  default_prompt: "使用 $write-structured-articles 根据我的主题和素材写一篇结构完整的文章。"
